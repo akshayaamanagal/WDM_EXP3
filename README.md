@@ -130,6 +130,10 @@ visualize_patterns_line(bottom_wear_result, 'Bottom Wear')
 visualize_patterns_line(party_wear_result, 'Party Wear')
 ```
 ### Output:
+(![Screenshot 2024-09-21 124748](https://github.com/user-attachments/assets/0151683a-6596-46c4-9766-603b5ef5d660)
+![2](https://github.com/user-attachments/assets/b2dad8a9-6dda-45a2-8822-bb46c4eee792)
+![3](https://github.com/user-attachments/assets/e5754fd3-73fa-452d-9aa1-798b8bcc4a2f)
 
 
 ### Result:
+Thus the implementation of the GSP algorithm in python has been successfully executed.
